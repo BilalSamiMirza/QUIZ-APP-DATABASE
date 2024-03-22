@@ -141,7 +141,7 @@
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   const firebaseConfig = {
-    apiKey: "AIzaSyAkQ41eZRAKanIiWnx5N5hFW70TCh9CC2c",
+   
     authDomain: "quiz-app-database-d525d.firebaseapp.com",
     databaseURL: "https://quiz-app-database-d525d-default-rtdb.firebaseio.com",
     projectId: "quiz-app-database-d525d",
